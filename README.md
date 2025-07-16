@@ -1,4 +1,4 @@
-               # Android Calculator App UI Test Automation for Pixel 9 Pro Emulator (Espresso)
+## Android Calculator App UI Test Automation for Pixel 9 Pro Emulator (Espresso)
 
 This repository contains an automated UI test suite for a simple Android Calculator application. The tests are developed using **Espresso**,
 Google's official UI testing framework for Android, and **JUnit**. This project demonstrates robust mobile test automation practices, including
